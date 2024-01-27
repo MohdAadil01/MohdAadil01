@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 🤝 I’m looking for **Intership**
+- 🤝 I’m looking for **Internship**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohdaadil01](https://github.com/mohdaadil01)
 
